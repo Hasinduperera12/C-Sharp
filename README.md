@@ -42,4 +42,4 @@ dotnet exec [--additionalprobingpath] [--additional-deps <PATH>]
     <PATH_TO_APPLICATION> [arguments]
 ```
 
-#### More dotnet command information https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet
+#### More information about dotnet commands https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet
